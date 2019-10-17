@@ -20,7 +20,7 @@ import { Meal } from '../../../shared/services/meals/meals.service';
               placeholder="e.g. English Breakfast" 
               formControlName="name">
             <div class="error" *ngIf="required">
-              Workout name is required
+              Meal name is required
             </div>
           </label>
         </div>

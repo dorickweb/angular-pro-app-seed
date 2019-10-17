@@ -1,6 +1,7 @@
 # Project
 .idea
 .vscode
+src/auth/auth.module.ts
 
 # Node
 node_modules
